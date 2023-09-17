@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #d378ec;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #92b2ea;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    border: 1px solid #f9d0d0;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+#file-upload input[type="file"] {
+    display: none;
+}
